@@ -5,7 +5,6 @@ You can work on this assignment alone or in a group of no more than 2 students.
 | Group Member Name          | GitHub Username    |
 | :------------------------- |:------------------:|
 | Ammar Khan                 | ammarkhan310       |
-| <first_name2> <last_name2> | <github_username2> |
 
 _**Note:** The commit logs will be examined to be sure that both participants participated equally on this project._
 
