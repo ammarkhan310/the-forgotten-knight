@@ -1,3 +1,6 @@
+// Copied and slightly simplified version of Brackey's code from
+// https://www.youtube.com/watch?v=6OT43pvUyfY&list=WL&index=15
+
 using UnityEngine.Audio;
 using System;
 using UnityEngine;
